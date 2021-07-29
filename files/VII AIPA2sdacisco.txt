@@ -1,0 +1,32 @@
+wired
+- copper
+- fiber optic
+wireless
+
+osi (open system interconnection)
+
+IANA : internet assigned numbers authority
+RIRs : Regional internet Registries
+
+AFRINIC	(2c00:0000::/12)
+APNIC	(2400:0000::/12)
+ARIN	(2400:0000::/12)
+LACNIC	(2800:0000::/12)
+RIPENCC	(2a00:0000::/12)
+
+IP adalah salah satu pilatr utama yang mendukung internet saat ini
+IP sekarang IPv4
+IP terbaru IPv6
+IPv5 = untuk penggunaan eksperimental(Lebih rendah dari IPv4)
+
+IPv4 sudah habis
+kebutuhan alamat ip yang semakin banyak
+IPv6 memungkinkan komunikasi end to end tanpa NAT(Network address translation)
+Header yang lebih sederhana
+Address autoconfiguration
+Kemampuan multicast
+Mobilitas
+Tidak ada lagi traffic broadcast
+
+IPv6 ditulis dalam notasi hexadecimal
+bhgfhhhhh
